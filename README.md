@@ -42,4 +42,4 @@ Feel free to fork this repository and submit a pull request.
 📬 Contact
 
 👤 Your Name
-📧 yashk24729@example.com
+📧 yashk24729@gmail.com
